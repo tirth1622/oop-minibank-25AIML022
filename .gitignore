@@ -1,0 +1,13 @@
+# Compiled class files
+bin/
+*.class
+
+# Persistence & log output (as per Practical 11 instructions)
+data/*.dat
+logs/*.log
+logs/*.txt
+
+# Temporary files
+sources.txt
+manifest.txt
+*.tmp
